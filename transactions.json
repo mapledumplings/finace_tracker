@@ -1,0 +1,86 @@
+[
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-12-01",
+        "type": "Income"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-11-01",
+        "type": "Income"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-10-01",
+        "type": "Income"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-08-01",
+        "type": "Income"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-07-01",
+        "type": "Income"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-06-01",
+        "type": "Income"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-05-01",
+        "type": "Income"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-04-01",
+        "type": "Income"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-03-01",
+        "type": "Income"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-02-01",
+        "type": "Income"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Salary",
+        "date": "2024-01-01",
+        "type": "Income"
+    },
+    {
+        "amount": 100.0,
+        "category": "Groceries",
+        "date": "2024-12-02",
+        "type": "Expense"
+    },
+    {
+        "amount": 45.0,
+        "category": "Recreation",
+        "date": "2024-11-30",
+        "type": "Expense"
+    },
+    {
+        "amount": 2500.0,
+        "category": "Car",
+        "date": "2024-11-01",
+        "type": "Expense"
+    }
+]
